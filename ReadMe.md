@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧪 Работаю над проектом с дообучением LLM-ки на химических данных для своего диплома!<br>👨‍🎓 Планирую поступать в магистратуру ИТМО AI TALENT HUB!<br>🤓 Прошел множество курсов на STEPIK и других платформах для повышения квалификации!<br>🏆 Победил в хакатоне от СБЕР x ИТМО x ПРОСТО!<br>💻 Участвовал во многих хакатонах и воркшопах!<br>📃 Вот мое резюме: [резюме](https://www.canva.com/design/DAGcv3MI3Vg/Df7TTLjayC1V6dxoSqSv3A/edit?utm_content=DAGcv3MI3Vg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)<br>
+🧪 Написал диплом по теме "Обучение языковой модели для предсказания выхода биохимических реакций!<br>👨‍🎓 Планирую поступать в магистратуру ИТМО AI TALENT HUB!<br>🤓 Прошел множество курсов на STEPIK и других платформах для повышения квалификации!<br>🏆 Победил в хакатоне от СБЕР x ИТМО x ПРОСТО!<br>💻 Участвовал во многих хакатонах и воркшопах!<br>📃 Вот мое резюме: [резюме](https://www.canva.com/design/DAGcv3MI3Vg/Df7TTLjayC1V6dxoSqSv3A/edit?utm_content=DAGcv3MI3Vg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)<br>
 
 
 ## 🌐 Socials:
